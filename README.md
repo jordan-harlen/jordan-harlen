@@ -26,7 +26,7 @@ I am a Full Stack Web Developer from Wellington, New Zealand.
 
 - :zap: In my free time, I play social basketball and indoor netball and coach an intermediate aged kids basketball team.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-harlen/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-harlen/)
 
 ---
 
