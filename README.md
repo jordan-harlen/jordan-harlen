@@ -22,9 +22,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I'm currently on the search for a Web or Software Developer role where I can grow proffesionally and personally.
 
-- :seedling: Currently still learning new things around React, Javascript, HTML and CSS.
+- :seedling: Currently still learning new things around Web Development and some cloud and deployment services such as Firebase.
 
-- :zap: In my free time, I play social basketball and coach an intermediate aged kids team.
+- :zap: In my free time, I play social basketball and indoor netball and coach an intermediate aged kids basketball team.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-harlen/)
 
