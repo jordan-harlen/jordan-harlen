@@ -18,7 +18,7 @@
 
 ### :man_technologist: About me:
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Wellington, New Zealand.
+I am a Full Stack Web Developer from Wellington, New Zealand.
 
 - :telescope: I'm currently on the search for a Web or Software Developer role where I can grow proffesionally and personally.
 
