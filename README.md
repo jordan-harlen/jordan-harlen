@@ -43,16 +43,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt='GitHub" width='40' height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-harlen&layout=compact" alt="Language stats" />
-
-
 </div>
-
----
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-harlen&layout=compact)
 
 <!--
 **jordan-harlen/jordan-harlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
