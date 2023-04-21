@@ -26,7 +26,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I play social basketball and coach an intermediate aged kids team.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-harlen/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-harlen/)
 
 <!--
 **jordan-harlen/jordan-harlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
