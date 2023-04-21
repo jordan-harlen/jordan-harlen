@@ -42,6 +42,7 @@ I am a Full Stack Web Developer from Wellington, New Zealand.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt='GitHub" width='40' height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-harlen&layout=compact" alt="Language stats" />
 </div>
 
