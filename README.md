@@ -22,7 +22,7 @@ I am a Full Stack Web Developer from Wellington, New Zealand.
 
 - :telescope: I'm currently on the search for a Web or Software Developer role where I can grow proffesionally and personally.
 
-- :seedling: Currently still learning new things around Web Development and some cloud and deployment services such as Firebase.
+- :seedling: Currently still learning new things around Web Development and some cloud and deployment services such as Firebase and have been doing 3D printing while searching for employment.
 
 - :zap: In my free time, I play social basketball and indoor netball and coach an intermediate aged kids basketball team.
 
