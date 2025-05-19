@@ -27,7 +27,7 @@ Ko Jordan Harlen tōku ingoa.
 Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.
 
 💻 I trained as a Full Stack Web Developer and have since worked in technical support roles, developing automation, working with Microsoft 365, and building low-code apps using Power Platform.  
-🌱 I’m currently refreshing my full stack development skills and diving deeper into backend and automation development.  
+🌱 I’m currently refreshing my full stack development skills. 
 🚀 Looking for opportunities that blend development, automation, and impactful digital solutions.
 
 ---
