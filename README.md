@@ -32,6 +32,10 @@ Ko Jordan Harlen toku ingoa.
 
 Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.
 
+I trained as a Fullstack Web developer about 3 years ago and have been in a Technical Support role for the last 2 years.
+
+I am now looking for the next step in my tech career :)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
