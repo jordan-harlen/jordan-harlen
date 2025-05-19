@@ -12,8 +12,6 @@
   <h1>Kia ora! 👋</h1>
 </div>
 
----
-
 ### 🧑‍💻 About Me
 
 Tēnā koutou katoa.
