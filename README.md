@@ -62,5 +62,3 @@ Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.
 - 🛡️ Helped improve Microsoft Secure Score and endpoint hardening  
 - 🤝 Passionate about learning and building meaningful tools for real-world users  
 - 🌍 Always happy to collaborate or lend a hand to fellow devs
-
----
