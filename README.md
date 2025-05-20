@@ -28,8 +28,6 @@ Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.
 🌱 I’m currently refreshing my full stack development skills. 
 🚀 Looking for opportunities that blend development, automation, and impactful digital solutions.
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -58,8 +56,6 @@ Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-harlen&layout=compact)
 
 </div>
-
----
 
 ### ✨ Fun Facts
 - 🔄 Built Power Apps to streamline HR and healthcare workflows  
